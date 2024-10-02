@@ -8,18 +8,11 @@
 
 <img src="https://github.com/user-attachments/assets/f81437be-f321-439a-abe7-e7ebd086ea37" width="700"/>
 <img src="https://github.com/user-attachments/assets/ccdc5039-af18-4a87-ac1f-d89d84721a60" width="700"/>
-<img src="https://github.com/user-attachments/assets/8e16f964-bc2d-4cd7-a4dd-5cc4bbd58b18" width="700"/>
-<img src="https://github.com/user-attachments/assets/5fe57458-bec2-4082-93f7-1170eae72c53" width="700"/>
+<img src="https://github.com/user-attachments/assets/d2b12099-5c6a-4344-ab3c-497c5ae0721c" width="700"/>
+<img src="https://github.com/user-attachments/assets/86224ac6-fa58-4c2c-b9d1-c7af74921e05" width="700"/>
 <img src="https://github.com/user-attachments/assets/95741bc4-bc80-4e0d-a9e5-a0faaf9ed648" width="700"/>
 <img src="https://github.com/user-attachments/assets/6c3509d3-33dc-47bb-b21c-21cf4472e0bc" width="700"/>
-<img src="https://github.com/user-attachments/assets/2f338732-c788-4dfe-9ddc-a6fb362aae7b" width="700"/>
+<img src="https://github.com/user-attachments/assets/a739dd46-3f49-4c91-a6ce-2c26d1bd1a8f" width="700"/>
 
 ### Segundo temos a Classe main (Cuja serve apenas para acionar a execução do ensalamento) :
 
-<img src="https://github.com/user-attachments/assets/b2b4c946-9295-4af7-889f-306ee998824d" width="700"/>
-
-![image](https://github.com/user-attachments/assets/d2b12099-5c6a-4344-ab3c-497c5ae0721c)
-
-![image](https://github.com/user-attachments/assets/86224ac6-fa58-4c2c-b9d1-c7af74921e05)
-
-![image](https://github.com/user-attachments/assets/a739dd46-3f49-4c91-a6ce-2c26d1bd1a8f)
