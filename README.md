@@ -6,7 +6,7 @@
 
 ### Primerio temos as Classes listadas no projeto que serião : Aluno, Professor, Disciplina, Turma e Ensalamento.
 
-![image](https://github.com/user-attachments/assets/06468c7a-07e8-4afe-a172-fdf5db9878cf)
+![image]( width="50%"https://github.com/user-attachments/assets/06468c7a-07e8-4afe-a172-fdf5db9878cf)
 
 ![image](https://github.com/user-attachments/assets/c3306e9f-b741-49cd-ae15-7ad6a39c3014)
 
