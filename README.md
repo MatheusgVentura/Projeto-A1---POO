@@ -4,6 +4,6 @@
 
 # Como funciona ?
 
-## Primerio temos as Classes listadas no projeto que serião : Aluno, Professor, Disciplina, Curso e Turma.
+### Primerio temos as Classes listadas no projeto que serião : Aluno, Professor, Disciplina, Curso e Turma.
 
  
