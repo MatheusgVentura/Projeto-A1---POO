@@ -16,6 +16,5 @@
 
 ### Segundo temos a Classe main (Cuja serve apenas para acionar a execução do ensalamento) :
 
-https://github.com/user-attachments/assets/d2b12099-5c6a-4344-ab3c-497c5ae0721c
+<img src="https://github.com/user-attachments/assets/3fa4a29f-0310-4897-9174-b29d8800c60f" width="550"/>
 
-![image](https://github.com/user-attachments/assets/eb78461a-644f-4881-8743-938a979b7dd7)
