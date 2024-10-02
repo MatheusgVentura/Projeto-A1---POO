@@ -7,7 +7,7 @@
 ### Primerio temos as Classes listadas no projeto que serião : Aluno, Professor, Disciplina, Turma e Ensalamento.
 
 <img src="https://github.com/user-attachments/assets/06468c7a-07e8-4afe-a172-fdf5db9878cf" width="500"/>
-# **
+# xx
 <img src="https://github.com/user-attachments/assets/c3306e9f-b741-49cd-ae15-7ad6a39c3014" width="500"/>
 # ----
 <img src="https://github.com/user-attachments/assets/8e16f964-bc2d-4cd7-a4dd-5cc4bbd58b18" width="500"/>
