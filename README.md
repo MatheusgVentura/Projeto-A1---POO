@@ -18,3 +18,7 @@
 
 <img src="https://github.com/user-attachments/assets/3fa4a29f-0310-4897-9174-b29d8800c60f" width="550"/>
 
+### Terceiro temos a Classe Pessoa (Herança) :
+
+<img src="https://github.com/user-attachments/assets/4a9bdc21-4f50-406e-ac8f-37c1597abe7a" width="550"/>
+
