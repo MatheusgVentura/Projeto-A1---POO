@@ -23,5 +23,24 @@
 <img src="https://github.com/user-attachments/assets/4a9bdc21-4f50-406e-ac8f-37c1597abe7a" width="550"/>
 
 # O que cada classe faz :
+## Classe Pessoa :
 
-## Clase Pessoa - 
+### Essa classe é usada como um ponto de partida para definir atributos comuns que serão herdados por Aluno e Professor.
+## Classe Aluno :
+
+### Ela estende a classe Pessoa para incluir a especificidade do curso em que o aluno está matriculado.
+## Classe Professor :
+
+### Esta classe estende Pessoa para associar uma disciplina ao professor, de forma que possa ser facilmente vinculada às turmas.
+## Classe Curso :
+
+### Esta classe agrupa as disciplinas para facilitar a organização do que cada curso oferece.
+
+## Classe Disciplina :
+### Ela é usada para associar as disciplinas aos cursos e possibilitar a alocação nas turmas.
+
+## Classe Turma :
+### Esta classe faz a junção de todos os elementos, associando professores, disciplinas e alunos em uma estrutura organizada.
+
+## Classe Ensalamento :
+### A classe Ensalamento coordena a criação e alocação de turmas, centralizando a lógica do sistema.
