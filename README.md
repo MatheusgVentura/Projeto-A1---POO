@@ -22,3 +22,6 @@
 
 <img src="https://github.com/user-attachments/assets/4a9bdc21-4f50-406e-ac8f-37c1597abe7a" width="550"/>
 
+# O que cada classe faz :
+
+## Clase Pessoa - 
