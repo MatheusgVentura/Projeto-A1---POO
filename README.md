@@ -4,7 +4,7 @@
 
 # Como funciona ?
 
-### Primerio temos as Classes listadas no projeto que serão : Aluno, Professor, Disciplina, Turma e Ensalamento :
+### Primerio temos as Classes listadas no projeto que serão : Aluno, Professor, Disciplina, Curso, Turma e Ensalamento :
 
 <img src="https://github.com/user-attachments/assets/f81437be-f321-439a-abe7-e7ebd086ea37" width="550"/>
 <img src="https://github.com/user-attachments/assets/ccdc5039-af18-4a87-ac1f-d89d84721a60" width="550"/>
